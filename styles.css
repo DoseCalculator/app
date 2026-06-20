@@ -25,10 +25,12 @@ html {
 } */
 
 :root {
-  --bg-color: #422057;
-  --second-bg-color: #6f08af;
-  --text-color: #ffd662;
-  --main-color: #abfcf8;
+  --bg-color: #3188be;
+  --second-bg-color: #5ca9dd;
+  --text-color: #0e2735;
+  --main-color: #1ef8ed;
+  --btn-txt-color: #1b5c59;
+  --links-color: #1b5c59;
 }
 
 body {
@@ -206,7 +208,7 @@ span {
   border-radius: 4rem;
   box-shadow: 0 0 1rem var(--main-color);
   font-size: 1.6rem;
-  color: var(--second-bg-color);
+  color: var(--btn-txt-color);
   letter-spacing: 0.1rem;
   font-weight: 600;
   transition: 0.5s ease;
